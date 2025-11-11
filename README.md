@@ -12,3 +12,10 @@
 - chat.txt has all the asked queries and the responses.
 - run ./mlm delete chat -- to clear chat.txt .
 - run ./mlm -qi filepath -- to read the query from a text file .
+- run ./mlm pdf filename
+- run ./mlm -F pdf folderpath -- to select a folder full of pdf's .
+
+##### Requirements :
+
+- Should be able to parse pdf's.
+- Optional ability to export / write the chat in pdf format as well.
