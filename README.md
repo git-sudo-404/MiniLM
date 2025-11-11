@@ -19,3 +19,7 @@
 
 - Should be able to parse pdf's.
 - Optional ability to export / write the chat in pdf format as well.
+
+##### Why this ?
+
+- Just a small project to learn Rust & LM's .
